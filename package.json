@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "connect" : "2.x",
+    "connect": "2.x",
     "express": "~3.4.x"
   },
   "engines": {
